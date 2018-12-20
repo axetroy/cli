@@ -1,0 +1,28 @@
+{
+  "name": "axetroy",
+  "version": "0.0.1",
+  "description": "Axetroy 的个人导航.",
+  "bin": {
+    "axetroy": "./bin/axetroy"
+  },
+  "scripts": {
+    "test": "echo 'success!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axetroy/axetroy.git"
+  },
+  "author": "Axetroy",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/axetroy/axetroy/issues"
+  },
+  "homepage": "https://github.com/axetroy/axetroy#readme",
+  "dependencies": {
+    "caporal": "^1.1.0",
+    "opn": "^5.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^10.11.7"
+  }
+}

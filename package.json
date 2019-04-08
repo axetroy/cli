@@ -20,9 +20,9 @@
   "homepage": "https://github.com/axetroy/axetroy#readme",
   "dependencies": {
     "caporal": "^1.1.0",
-    "opn": "^5.4.0"
+    "opn": "^6.0.0"
   },
   "devDependencies": {
-    "@types/node": "^10.11.7"
+    "@types/node": "^11.13.0"
   }
 }

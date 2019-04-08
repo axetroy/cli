@@ -1,5 +1,7 @@
 # 我的个人导航
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/axetroy/axetroy.svg)](https://greenkeeper.io/)
+
 ```bash
 npm install axetroy -g
 ```
